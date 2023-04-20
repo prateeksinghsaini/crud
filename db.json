@@ -1,0 +1,25 @@
+{
+  "user": [
+    {
+      "id": 3,
+      "name": "Rhea",
+      "address": "Guwahati",
+      "email": "rhea@gmail.com",
+      "contact": "6546415611"
+    },
+    {
+      "name": "Prateek",
+      "email": "prateek1901267@gmail.com",
+      "address": "Gurgoan",
+      "contact": "9115060793",
+      "id": 6
+    },
+    {
+      "name": "Bhanukul Saini",
+      "email": "bhanuklulsain@gmail.com",
+      "contact": "54984951954",
+      "address": "Pathankot",
+      "id": 7
+    }
+  ]
+}
